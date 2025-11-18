@@ -2,7 +2,7 @@
 
 `Estudante/Desenvolvedor`
 
-Me chamo Fernando Dias Brito, nascido em São Bernardo do Campo, estudante de Análise e Desenvolvimento de Sistemas na Anhanguera. Sou apaixonado por tecnologia e busco sempre aprender cada vez mais e mais a fins de resolver problemas do mundo real e assim engrandecer o futuro!
+Me chamo Fernando Dias Brito, nascido em São Bernardo do Campo e estudante de Análise e Desenvolvimento de Sistemas na Anhanguera. Sou apaixonado por tecnologia e busco sempre aprender cada vez mais e mais a fins de resolver problemas do mundo real e assim engrandecer o futuro!
 
 <p align="left">
       <a href="https://www.linkedin.com/in/fernando-dias-brito">
