@@ -69,6 +69,14 @@ Me chamo Fernando Dias Brito, nascido em São Bernardo do Campo e estudante de A
     style="padding-right: 10px;" 
     src="https://skillicons.dev/icons?i=vscode"
 />
+<img 
+    align="left" 
+    alt="windows"
+    title="windows" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://skillicons.dev/icons?i=windows"
+/>
 
 <br/>
 <br/>
