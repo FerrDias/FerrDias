@@ -84,15 +84,11 @@ Me chamo Fernando Dias Brito, nascido em São Bernardo do Campo e estudante de A
 ### 📊 Stats
 
 <img 
-    align="left" 
-    alt="Github Stats"
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=ferrdias&show_icons=true&theme=dark&include_all_commits=true&locale=en&cache_seconds=1800"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=ferrdias&show_icons=true&theme=dark&include_all_commits=true"
 />
 
 <img 
-    align="left" 
-    alt="Top Languages"
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrdias&theme=dark&layout=compact&custom_title=Technology&cache_seconds=1800"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrdias&layout=compact&theme=dark"
 />
