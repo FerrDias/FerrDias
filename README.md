@@ -88,7 +88,7 @@ Me chamo Fernando Dias Brito, nascido em São Bernardo do Campo e estudante de A
     alt="Github Stats"
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ferrdias&show_icons=true&theme=dark&include_all_commits=true&locale=en-us"
+    src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"
 />
 <img 
     align="left" 
