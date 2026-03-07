@@ -18,7 +18,7 @@ Me chamo Fernando Dias Brito, nascido em São Bernardo do Campo e estudante de A
 ---
    
 
-### 🖥️ Skiils & Tools
+### 🖥️ Skills & Tools
 
 
 <img 
