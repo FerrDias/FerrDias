@@ -1,8 +1,17 @@
 # Fernando Dias
 
-`Estudante/Desenvolvedor`
+`Estudante/Desenvolvedor` ᴮᴿ
 
 Me chamo Fernando Dias Brito, nascido em São Bernardo do Campo e estudante de Análise e Desenvolvimento de Sistemas na Anhanguera. Sou apaixonado por tecnologia e busco sempre aprender cada vez mais e mais a fins de resolver problemas do mundo real e assim engrandecer o futuro!
+
+
+`Student/Developer` ᴱᴺ
+
+My name is Fernando Dias Brito, born in São Bernardo do Campo and studying Systems Analysis and Development at Anhanguera. I am passionate about technology and always seek to learn more and more in order to solve real-world problems and thus enhance the future!
+
+---
+
+### 🌐 Social
 
 <p align="left">
       <a href="https://www.linkedin.com/in/fernando-dias-brito">
@@ -15,11 +24,7 @@ Me chamo Fernando Dias Brito, nascido em São Bernardo do Campo e estudante de A
          <img alt="discord" title="Polyblus" src="https://camo.githubusercontent.com/8c0fca73564f21d7a6f235747eb4d739a2e4aaa348b8e074904127baeb944b9e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3538363546323f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465"/></a>
    </p>
 
----
-   
-
 ### 🖥️ Skills & Tools
-
 
 <img 
     align="left" 
@@ -31,48 +36,56 @@ Me chamo Fernando Dias Brito, nascido em São Bernardo do Campo e estudante de A
 />
 <img 
     align="left" 
-    alt="html"
-    title="html" 
+    alt="HTML"
+    title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://skillicons.dev/icons?i=html"
 />
 <img 
     align="left" 
-    alt="css"
-    title="css" 
+    alt="CSS"
+    title="CSS" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://skillicons.dev/icons?i=css"
 />
 <img 
     align="left" 
-    alt="c"
-    title="c" 
+    alt="C"
+    title="C" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://skillicons.dev/icons?i=c"
 />
 <img 
     align="left" 
-    alt="python"
-    title="python" 
+    alt="Python"
+    title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://skillicons.dev/icons?i=python"
 />
 <img 
     align="left" 
-    alt="vscode"
-    title="vscode" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://skillicons.dev/icons?i=mysql"
+/>
+<img 
+    align="left" 
+    alt="Visual Studio Code"
+    title="Visual Studio Code" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://skillicons.dev/icons?i=vscode"
 />
 <img 
     align="left" 
-    alt="windows"
-    title="windows" 
+    alt="Windows"
+    title="Windows" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://skillicons.dev/icons?i=windows"
@@ -96,5 +109,5 @@ Me chamo Fernando Dias Brito, nascido em São Bernardo do Campo e estudante de A
     alt="Github Stats"
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ferrdias&theme=transparent&layout=compact&custom_title=Most Used Languages&langs_count=10"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ferrdias&theme=transparent&layout=compact&custom_title=Languages&langs_count=10"
 />
